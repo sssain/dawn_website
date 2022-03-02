@@ -1,0 +1,42 @@
+body {
+    background-color: #171717;
+}
+
+.title{
+    font-family: Poppins;
+    text-align: center;
+    color: #EDEDED;
+    margin-top: 20rem;
+    font-size: 70px;
+}
+
+.desc{
+    text-align: center;
+    color: #EDEDED;
+    font-family: Poppins;
+    margin-top: -4rem;
+    margin-bottom: 2rem;
+
+}
+
+.invite{
+    background-color: #171717;
+    border: 2px solid #EDEDED;
+    color: #EDEDED;
+    padding: 0.7em 1.7em;
+    font-family: Poppins;
+    text-align: center;
+    margin-left: 44rem;
+    transition: 200ms;
+    text-decoration: none;
+
+
+}
+
+.invite:hover{
+    border: 2px solid #171717;
+    background-color: #EDEDED;
+    color: #171717;
+
+
+}
