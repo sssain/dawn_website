@@ -6,7 +6,7 @@ body {
     font-family: Poppins;
     text-align: center;
     color: #EDEDED;
-    margin-top: 20rem;
+    margin-top: 15rem;
     font-size: 70px;
 }
 
@@ -15,7 +15,7 @@ body {
     color: #EDEDED;
     font-family: Poppins;
     margin-top: -4rem;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
 
 }
 
@@ -26,9 +26,12 @@ body {
     padding: 0.7em 1.7em;
     font-family: Poppins;
     text-align: center;
-    margin-left: 44rem;
     transition: 200ms;
     text-decoration: none;
+    display: block;
+    margin: 0 auto;
+    width: 80px;
+
 
 
 }
