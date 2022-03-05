@@ -1,8 +1,9 @@
 <div align="center">
   <p>
-    <img src="https://avatars.githubusercontent.com/u/100820731?s=400&u=882a96706c0656c8bd4b6482bdc32877cf9c40a2&v=4" width="200"/>
+    <img src="https://i.ibb.co/RNhGkRc/dwn-logo.png" width="200"/>
   </p>
-  <h1>dawn.</h1>
-  <br />
+  <h1>dawn.</h1>  <p>Dawn, a simple discord music bot. Currently in beta test phase
+</p>
+  <a href="https://dawn.sssaintt.xyz">Invite Here</a>
 </div>
-<a href="https://dawn.sssaintt.xyz">click here</a>
+
