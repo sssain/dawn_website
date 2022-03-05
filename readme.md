@@ -5,5 +5,4 @@
   <h1>dawn.</h1>
   <br />
 </div>
-# Invite 
 <a href="https://dawn.sssaintt.xyz">click here</a>
