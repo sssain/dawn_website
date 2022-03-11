@@ -7,3 +7,5 @@
   <a href="https://dawn.sssaintt.xyz">Invite Here</a>
 </div>
 
+# Overview
+dawn, is a simple multipurpose bot that can play high-quality music, send you memes, search an image, give your waifu photo, give you a weather forecast, and many more commands on the bot.
